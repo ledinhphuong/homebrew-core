@@ -25,7 +25,7 @@ class Usbmuxd < Formula
   end
 
   head do
-    url "https://git.sukimashita.com/libusbmuxd.git"
+    url "https://github.com/ledinhphuong/libusbmuxd.git"
 
     depends_on "autoconf" => :build
     depends_on "automake" => :build
